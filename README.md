@@ -13,7 +13,7 @@
 
 - Upload your own campground and later you can edit it too.
 
-- Prevented Cross Site Scripting using [sanitize-html](https://www.npmjs.com/package/sanitize-html) and Mongo Injection using [express-mongo-sanitize](https://www.npmjs.com/package/express-mongo-sanitize).
+- Prevented **Cross Site Scripting** using [sanitize-html](https://www.npmjs.com/package/sanitize-html) and **Mongo Injection** using [express-mongo-sanitize](https://www.npmjs.com/package/express-mongo-sanitize).
 
 <!-- TECH STACK -->
 ## 🛠 Tech Stack:
